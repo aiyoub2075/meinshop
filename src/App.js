@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>Aiyoub Smartphone Shop</h1>
+        <h1>Aiyoub Shop</h1>
       </header>
       <div className="product-list">
         {products.map((product, index) => (

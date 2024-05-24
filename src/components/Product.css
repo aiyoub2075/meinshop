@@ -32,4 +32,8 @@
     margin-top: 5px;
     color: hsl(0, 8%, 5%);
   }
-  
+  .product-timer {
+    font-size: 1em;
+    margin-top: 10px;
+    color: red;
+  }
